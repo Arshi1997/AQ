@@ -1,2 +1,3 @@
 # AQ
-for my pzractice purpose
+for my practice purpose
+my name is arshiya zarin
